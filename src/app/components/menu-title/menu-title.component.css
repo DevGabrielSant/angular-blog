@@ -2,18 +2,10 @@
     color: white;
 }
 
-.container__menu-title{
-    margin-top: 15px;
-    margin-bottom: 15px;
-    font-size: 106px;
-    /* tipo de layour */
-   
-    
-}
 
 .container__menu-title > hr{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 
